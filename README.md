@@ -1,4 +1,5 @@
 # WoW WotLK addons and related files
+<img src="https://wow.zamimg.com/uploads/blog/images/27174.png">
 
 ----
 
