@@ -1,10 +1,10 @@
-# WoW Classic addons and related files
+# WoW WotLK addons and related files
 
 ----
 
-For Vanilla WoW, aka WoW Classic
+For WoW Wrath of the Lich King
 Here is a curated collection of addons that work with Vanilla WoW, i have verified that they do in-fact work with 
-WoW Classic as well as private servers.
+WoW retail as well as private servers.
 
 ---
 
